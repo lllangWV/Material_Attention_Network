@@ -22,7 +22,7 @@ REQUIREMENTS = [f'{x.name}{x.specifier}' for x in pkg.parse_requirements((PARENT
 
 
 setup(
-name='matattdb',
+name='matattnet',
 version="0.0.1",
 author='Logan Lang',
 author_email='lllang@mix.wvu.edu',
